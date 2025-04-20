@@ -41,7 +41,7 @@ The mock web application used for testing is **OWASP Juice Shop**.
 - **Basic Penetration Testing:**  
   Manual tests using Browser Developer Tools and simulated SQL/XSS attacks after security fixes.
 - **Logging:**  
-  Winston configured in `secureServer.ts`.
+  Winston configured in `Server.ts`.
 - **Checklist Created:**  
   - [x] Validate all user inputs.
   - [x] Secure password storage using hashing and salting.
